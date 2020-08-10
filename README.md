@@ -23,14 +23,14 @@ El curso está dividido en 16 clases, las cuales se distribuyen a los largo de 5
     
 * ***Módulo 2:*** Data Tidying 
 
-  + ***Clase_03:*** Importar y exportar bases de datos.
-  + ***Clase_04:*** Limpieza de bases de datos parte 1.
-  + ***Clase_05:*** Limpieza de bases de datos parte 2.
-  + ***Clase_06:*** Limpieza de bases de datos parte 3.
+  + ***Clase_03:*** Limpieza de bases de datos parte 1.
+  + ***Clase_04:*** Limpieza de bases de datos parte 2.
+  + ***Clase_05:*** Limpieza de bases de datos parte 3.
+  + ***Clase_06:*** Gráficos en R.
    
 * ***Módulo 3:*** Iterar procesos
 
-  + ***Clase_07:*** Loops (For, While,  )
+  + ***Clase_07:*** Loops (For, While, repeat)
   + ***Clase_08:*** Familia apply
      
 * ***Módulo 4:*** Procesamiento de información espacial
@@ -43,7 +43,7 @@ El curso está dividido en 16 clases, las cuales se distribuyen a los largo de 5
 * ***Módulo 5:***  Otras aplicaciones
      
   + ***Clase_13:*** Regresiones.
-  + ***Clase_14:*** Rmarkdonw. 
+  + ***Clase_14:*** Rmarkdonw y Shiny. 
   + ***Clase_15:*** Web scraping.  
   + ***Clase_16:*** Minería de texto.
     
