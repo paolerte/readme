@@ -79,4 +79,8 @@ Después debe descargar el repositorio haciendo clic en ***Download ZIP*** (En l
 
 ![](graphs/capture2.png)
 
-***4.*** Por último, espero este curso les sirva para aprender un poco de esta poderosa herramienta!
+### 4. ¿Cómo seguir las clases? (Lo mismo de la sección ***3. Antes de ...***, pero explicado en vídeo).
+
+Ver [aquí](https://www.dropbox.com/sh/toon9rda68erf97/AACcLCFELB4u9OykQZcYFniZa?dl=0) el vídeo de como seguir las clases.
+
+Enlace a documentación de [GitHub](https://docs.github.com/es/github) si quiere aprender un poco más de GitHub. 
