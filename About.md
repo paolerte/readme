@@ -73,10 +73,10 @@ Esta carpeta contiene el programa y las reglas de juego del curso.
 
 ***3.*** Para replicar una clase, usted debe ir al repositorio de la clase y hacer clic en ***Code***.  
 
-![](capture1.png)
+![](graphs/capture1.png)
 
 Después debe descargar el repositorio haciendo clic en ***Download ZIP*** (En la segunda clase aprenderemos una forma de hacerlo directamente desde R). Posteriormente debe ir a la carpeta ***Codes*** y abrir el *Script* de la clase, para replicar la clase solo debe cambiar el directorio de trabajo (linea 36 del código) por la ruta a la carpeta del repositorio en su computador.
 
-![](capture2.png)
+![](graphs/capture2.png)
 
 ***4.*** Por último, espero este curso les sirva para aprender un poco de esta poderosa herramienta!
