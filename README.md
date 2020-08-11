@@ -14,7 +14,7 @@ de la Universidad de los Andes.
 
 ### 1. Organización del curso:
 
-El curso está dividido en 16 clases, las cuales se distribuyen a los largo de 5 módulos. Para cada clase se crea un repositorio que contiene cuatro carpetas con el material del curso. El contenido detallado de cada clase se encuentra en el Sylabus.
+El curso está dividido en 16 clases, las cuales se distribuyen a los largo de 5 módulos. Para cada clase se crea un repositorio que contiene cuatro carpetas con el material del curso. El contenido detallado de cada clase se encuentra en el Syllabus.
 
 * ***Módulo 1:*** Introducción a R
 
@@ -48,7 +48,7 @@ El curso está dividido en 16 clases, las cuales se distribuyen a los largo de 5
   + ***Clase_16:*** Minería de texto.
     
     
-### 2. Sylabus 
+### 2. Syllabus 
 
 Esta carpeta contiene el programa y las reglas de juego del curso.
 
