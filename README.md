@@ -21,7 +21,9 @@
 
 ## 2. Acerca de las clases
 
-Para cada clase se crea un repositorio en la [cuenta](https://github.com/taller-R) del curso en GitHub. Cada repositorio contiene 6 carpetas y un archivo README.md que contiene las instrucciones iniciales de la clase. En este archivo también se encuentran los link a los videos de la clase.
+Para replicar las clases del curso, usted deberia revisar los videos 1 y 2 de este [enlace](https://www.dropbox.com/sh/wsa52fb66ey8irm/AADt86NnPK5F-t_oaUjV1zKea?dl=0) y en este otro [enlace](https://eduard-martinez.github.io/blog/github/clonar_github.html) encuentra 3 formas de clonar un repositorio de GitHub usando R. Todos los vídeos, organizados por clase, se encuentran en este [link](https://www.dropbox.com/sh/m36a089n4je6ly0/AAB42iWERL0aNLynIllTKQKua?dl=0).
+
+Para cada clase se crea un repositorio en la [cuenta](https://github.com/taller-R) del curso en GitHub. Cada repositorio contiene 6 carpetas y un archivo README.md que contiene las instrucciones iniciales de la clase. En este archivo también se encuentran los link a los videos de la clase. Los vídeos de las clases (incluidos los de este repositorio) se encuentran organizados por carpetas aquí.  
 
 <img src="graphs/capture.png" class="center" alt="drawing" style="width:400px;"/>
 
@@ -87,7 +89,3 @@ El curso está dividido en 16 clases, las cuales se distribuyen a lo largo de 5 
   + ***Clase_14:*** Rmarkdonw y Shiny. 
   + ***Clase_15:*** Web scraping.  
   + ***Clase_16:*** Minería de texto.
-
-## 4. ¿Cómo seguir las clases?
-
-* Para replicar las clases del curso, usted deberia revisar los videos 1 y 2 de este [enlace](https://www.dropbox.com/sh/wsa52fb66ey8irm/AADt86NnPK5F-t_oaUjV1zKea?dl=0).
