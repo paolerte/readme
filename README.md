@@ -21,7 +21,7 @@
 
 ## 2. Acerca de las clases
 
-Para replicar las clases del curso, usted deberia revisar los videos 1 y 2 de este [enlace](https://www.dropbox.com/sh/wsa52fb66ey8irm/AADt86NnPK5F-t_oaUjV1zKea?dl=0) y en este otro [enlace](https://eduard-martinez.github.io/blog/github/clonar_github.html) encuentra 3 formas de clonar un repositorio de GitHub usando R. Todos los vídeos, organizados por clase, se encuentran en este [link](https://www.dropbox.com/sh/m36a089n4je6ly0/AAB42iWERL0aNLynIllTKQKua?dl=0).
+Para replicar las clases del curso, usted deberia revisar el vídeo **Introducción del curso en GitHub** de este [enlace](https://www.dropbox.com/sh/wsa52fb66ey8irm/AADt86NnPK5F-t_oaUjV1zKea?dl=0) Todos los vídeos, organizados por clase, se encuentran en este [link](https://www.dropbox.com/sh/m36a089n4je6ly0/AAB42iWERL0aNLynIllTKQKua?dl=0). Después de ver la **Clase 1** puede ir a este [enlace](https://eduard-martinez.github.io/blog/github/clonar_github.html) y revisar los 3 caminous que puede seguir para clonar un repositorio de GitHub usando R (el vídeo lo encuentra [aquí](https://www.dropbox.com/sh/1s8odr6rrc64acl/AAAhWXHkq8w7_iMl3cW00kjfa?dl=0)). 
 
 Para cada clase se crea un repositorio en la [cuenta](https://github.com/taller-R) del curso en GitHub. Cada repositorio contiene 6 carpetas y un archivo README.md que contiene las instrucciones iniciales de la clase. En este archivo también se encuentran los link a los videos de la clase. Los vídeos de las clases (incluidos los de este repositorio) se encuentran organizados por carpetas aquí.  
 
