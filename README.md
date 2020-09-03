@@ -1,9 +1,25 @@
+![GitHub](https://img.shields.io/github/license/taller-R/readme) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/taller-R/readme/issues) ![](https://img.shields.io/github/followers/taller-R?style=social)
+
+<img src="https://avatars0.githubusercontent.com/u/69440432?s=400&u=96b3e58c713578b563d5c3d3c259f34965ac8e33&v=4" align="right" width=120 height=120 alt="" />
 
 # Acerca de esta cuenta
 
 + Este repositorio contiene las instrucciones necesarias para replicar el curso "Taller de R: Estadística y Programación.".
 
+# Autor
+
+<img src="https://avatars2.githubusercontent.com/u/24576122?s=400&u=8092eac7857baab63d2e0c7243e473463b082b1a&v=4" align="right" width=120 height=120 alt="" />
+
+[Eduard Martinez](eduard-martinez.github.io) 
+
+Economics PhD student at Universidad de los Andes. Working at [CesedUniandes](https://cesed.uniandes.edu.co/)
+
+
 ## 1. Acerca de este curso
+### Colaboradores ![Powered-taller-R-orange](https://img.shields.io/badge/Powered_by-Taller_R-blue?logo=R)
+<a href="https://github.com/taller-R/readme/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=taller-R/readme" />
+</a>
 
 #### ¿Qué es? y ¿Qué no es?
 
@@ -61,13 +77,13 @@ El curso está dividido en 16 clases, las cuales se distribuyen a lo largo de 5 
 
 * ***Módulo 1:*** Introducción a R
 
-  + ***Clase_01:*** Introducción a R.
-  + ***Clase_02:*** Estructuras de datos en R.
+  + ***Clase_01:*** [Introducción a R.](https://github.com/taller-R/Clase_1)
+  + ***Clase_02:*** [Estructuras de datos en R.](https://github.com/taller-R/Clase_2)
     
 * ***Módulo 2:*** Data Tidying 
 
-  + ***Clase_03:*** Limpieza de bases de datos parte 1.
-  + ***Clase_04:*** Limpieza de bases de datos parte 2.
+  + ***Clase_03:*** [Limpieza de bases de datos parte 1.](https://github.com/taller-R/Clase_3)
+  + ***Clase_04:*** [Limpieza de bases de datos parte 2.](https://github.com/taller-R/Clase_4)
   + ***Clase_05:*** Limpieza de bases de datos parte 3.
   + ***Clase_06:*** Gráficos en R.
    
