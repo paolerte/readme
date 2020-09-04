@@ -10,7 +10,7 @@
 
 <img src="https://avatars2.githubusercontent.com/u/24576122?s=400&u=8092eac7857baab63d2e0c7243e473463b082b1a&v=4" align="right" width=120 height=120 alt="" />
 
-[Eduard Martinez](eduard-martinez.github.io) 
+[Eduard Martinez](https://eduard-martinez.github.io) 
 
 Economics PhD student at Universidad de los Andes. Working at [CesedUniandes](https://cesed.uniandes.edu.co/)
 
