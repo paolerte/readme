@@ -84,12 +84,12 @@ El curso está dividido en 16 clases, las cuales se distribuyen a lo largo de 5 
 
   + ***Clase_03:*** [Limpieza de bases de datos parte 1.](https://github.com/taller-R/Clase_3)
   + ***Clase_04:*** [Limpieza de bases de datos parte 2.](https://github.com/taller-R/Clase_4)
-  + ***Clase_05:*** Limpieza de bases de datos parte 3.
-  + ***Clase_06:*** Gráficos en R.
+  + ***Clase_05:*** [Limpieza de bases de datos parte 3.](https://github.com/taller-R/Clase_5)
+  + ***Clase_06:*** [Gráficos en R.](https://github.com/taller-R/Clase_6)
    
 * ***Módulo 3:*** Iterar procesos
 
-  + ***Clase_07:*** Loops (For, While, repeat)
+  + ***Clase_07:*** [Loops (For, While, repeat)](https://github.com/taller-R/Clase_7)
   + ***Clase_08:*** Familia apply
      
 * ***Módulo 4:*** Procesamiento de información espacial
