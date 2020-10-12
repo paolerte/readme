@@ -37,7 +37,7 @@ Economics PhD student at Universidad de los Andes. Working at [CesedUniandes](ht
 
 ## 2. Acerca de las clases
 
-Para replicar las clases del curso, usted deberia revisar el vídeo **Introducción del curso en GitHub** de este [enlace](https://www.dropbox.com/sh/wsa52fb66ey8irm/AADt86NnPK5F-t_oaUjV1zKea?dl=0) Todos los vídeos, organizados por clase, se encuentran en este [link](https://www.dropbox.com/sh/m36a089n4je6ly0/AAB42iWERL0aNLynIllTKQKua?dl=0). Después de ver la **Clase 1** puede ir a este [enlace](https://eduard-martinez.github.io/blog/github/clonar_github.html) y revisar los 3 caminous que puede seguir para clonar un repositorio de GitHub usando R (el vídeo lo encuentra [aquí](https://www.dropbox.com/sh/1s8odr6rrc64acl/AAAhWXHkq8w7_iMl3cW00kjfa?dl=0)). En este [otro](https://www.dropbox.com/sh/bc76kg2h0xcid70/AAA86g9eP4l8ayr6KYEpvxI2a?dl=0) vídeo usted encuentra una explicación de como trabajar en un repositorio de GitHub.
+Para replicar las clases del curso, usted deberia revisar el vídeo **Introducción del curso en GitHub** de este [enlace](https://www.dropbox.com/sh/wsa52fb66ey8irm/AADt86NnPK5F-t_oaUjV1zKea?dl=0) Todos los vídeos, organizados por clase, se encuentran en este [link](https://www.dropbox.com/sh/m36a089n4je6ly0/AAB42iWERL0aNLynIllTKQKua?dl=0). Después de ver la **Clase 1** puede ir a este [enlace](https://eduard-martinez.github.io/blog/github/clonar_github.html) y revisar los 3 caminous que puede seguir para clonar un repositorio de GitHub usando R (el vídeo lo encuentra [aquí](https://www.dropbox.com/sh/1s8odr6rrc64acl/AAAhWXHkq8w7_iMl3cW00kjfa?dl=0)). En este [otro](https://www.dropbox.com/sh/bc76kg2h0xcid70/AAA86g9eP4l8ayr6KYEpvxI2a?dl=0) vídeo usted encuentra una explicación de como trabajar en un repositorio de GitHub.
 
 Para cada clase se crea un repositorio en la [cuenta](https://github.com/taller-R) del curso en GitHub. Cada repositorio contiene 6 carpetas y un archivo README.md que contiene las instrucciones iniciales de la clase. En este archivo también se encuentran los link a los videos de la clase. Los vídeos de las clases (incluidos los de este repositorio) se encuentran organizados por carpetas aquí.  
 
@@ -89,12 +89,12 @@ El curso está dividido en 16 clases, las cuales se distribuyen a lo largo de 5 
    
 * ***Módulo 3:*** Iterar procesos
 
-  + ***Clase_07:*** [Loops (For, While, repeat)](https://github.com/taller-R/Clase_7)
-  + ***Clase_08:*** Familia apply
+  + ***Clase_07:*** [Loops y familia apply](https://github.com/taller-R/Clase_7)
+  + ***Clase_08:*** [Funciones en R](https://github.com/taller-R/Clase_8)
      
 * ***Módulo 4:*** Procesamiento de información espacial
     
-  + ***Clase_09:*** Introducción a la información espacial en R.
+  + ***Clase_09:*** [Introducción a la información espacial en R](https://github.com/taller-R/Clase_9)
   + ***Clase_10:*** Visualización de la información espacial.
   + ***Clase_11:*** Operaciones con objetos espaciales.
   + ***Clase_12:*** Introducción al procesamiento de imágenes satelitales.
