@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/taller-R/readme) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/taller-R/readme/issues) ![](https://img.shields.io/github/followers/taller-R?style=social)
+![Powered-taller-R-orange](https://img.shields.io/badge/Powered_by-Taller_R-blue?logo=R)![GitHub](https://img.shields.io/github/license/taller-R/readme) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/taller-R/readme/issues) ![](https://img.shields.io/github/followers/taller-R?style=social)
 
 <img src="https://avatars0.githubusercontent.com/u/69440432?s=400&u=96b3e58c713578b563d5c3d3c259f34965ac8e33&v=4" align="right" width=120 height=120 alt="" />
 
@@ -77,15 +77,15 @@ El curso está dividido en 16 clases, las cuales se distribuyen a lo largo de 5 
 
 * ***Módulo 1:*** Introducción a R
 
-  + ***Clase_01:*** [Introducción a R.](https://github.com/taller-R/Clase_1)
-  + ***Clase_02:*** [Estructuras de datos en R.](https://github.com/taller-R/Clase_2)
+  + ***Clase_01:*** [Introducción a R](https://github.com/taller-R/Clase_1)
+  + ***Clase_02:*** [Estructuras de datos en R](https://github.com/taller-R/Clase_2)
     
 * ***Módulo 2:*** Data Tidying 
 
-  + ***Clase_03:*** [Limpieza de bases de datos parte 1.](https://github.com/taller-R/Clase_3)
-  + ***Clase_04:*** [Limpieza de bases de datos parte 2.](https://github.com/taller-R/Clase_4)
-  + ***Clase_05:*** [Limpieza de bases de datos parte 3.](https://github.com/taller-R/Clase_5)
-  + ***Clase_06:*** [Gráficos en R.](https://github.com/taller-R/Clase_6)
+  + ***Clase_03:*** [Limpieza de bases de datos parte 1](https://github.com/taller-R/Clase_3)
+  + ***Clase_04:*** [Limpieza de bases de datos parte 2](https://github.com/taller-R/Clase_4)
+  + ***Clase_05:*** [Limpieza de bases de datos parte 3](https://github.com/taller-R/Clase_5)
+  + ***Clase_06:*** [Gráficos en R](https://github.com/taller-R/Clase_6)
    
 * ***Módulo 3:*** Iterar procesos
 
@@ -95,13 +95,13 @@ El curso está dividido en 16 clases, las cuales se distribuyen a lo largo de 5 
 * ***Módulo 4:*** Procesamiento de información espacial
     
   + ***Clase_09:*** [Introducción a la información espacial en R](https://github.com/taller-R/Clase_9)
-  + ***Clase_10:*** Visualización de la información espacial.
-  + ***Clase_11:*** Operaciones con objetos espaciales.
-  + ***Clase_12:*** Introducción al procesamiento de imágenes satelitales.
+  + ***Clase_10:*** [Visualización de la información espacial](https://github.com/taller-R/Clase_10)
+  + ***Clase_11:*** [Operaciones geométricas](https://github.com/taller-R/Clase_11)
+  + ***Clase_12:*** [Introducción al procesamiento de imágenes satelitales](https://github.com/taller-R/Clase_12)
    
 * ***Módulo 5:***  Otras aplicaciones
      
-  + ***Clase_13:*** Regresiones.
-  + ***Clase_14:*** Rmarkdonw y Shiny. 
+  + ***Clase_13:*** [Regresiones](https://github.com/taller-R/Clase_13)
+  + ***Clase_14:*** [Rmarkdonw y Shiny](https://github.com/taller-R/Clase_14)
   + ***Clase_15:*** Web scraping.  
   + ***Clase_16:*** Minería de texto.
